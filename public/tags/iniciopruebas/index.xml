@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inicio,pruebas on Mis enredos</title>
+    <link>http://localhost:1313/tags/iniciopruebas/</link>
+    <description>Recent content in Inicio,pruebas on Mis enredos</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 04 Mar 2025 11:51:06 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/iniciopruebas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi primer post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 04 Mar 2025 11:51:06 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;A ver si consigo que todo funciones más o menos&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

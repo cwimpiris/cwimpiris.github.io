@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on Mis enredos</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on Mis enredos</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 04 Mar 2025 12:34:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Libros</title>
+      <link>http://localhost:1313/categories/libros/</link>
+      <pubDate>Tue, 04 Mar 2025 12:34:10 +0100</pubDate>
+      <guid>http://localhost:1313/categories/libros/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desarrollo</title>
+      <link>http://localhost:1313/categories/desarrollo/</link>
+      <pubDate>Tue, 04 Mar 2025 12:22:32 +0100</pubDate>
+      <guid>http://localhost:1313/categories/desarrollo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/categories/personal/</link>
+      <pubDate>Tue, 04 Mar 2025 11:51:06 +0100</pubDate>
+      <guid>http://localhost:1313/categories/personal/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

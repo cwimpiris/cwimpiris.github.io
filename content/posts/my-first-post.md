@@ -1,11 +1,11 @@
 +++
 date = '2025-03-04T11:51:06+01:00'
-draft = true
-title = 'My First Post'
+draft = false
+title = 'Mi primer post'
+categories = 'personal'
+tags = 'inicio,pruebas'
 +++
 
-## Introduction
+A ver si consigo que todo funciones más o menos
 
-This is **bold** text, and this is *emphasized* text.
 
-Visit the [Hugo](https://gohugo.io) website!

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Mis enredos</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Mis enredos</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 04 Mar 2025 12:22:32 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeros pasos con Hugo</title>
+      <link>http://localhost:1313/posts/primerospasosconhugo/</link>
+      <pubDate>Tue, 04 Mar 2025 12:22:32 +0100</pubDate>
+      <guid>http://localhost:1313/posts/primerospasosconhugo/</guid>
+      <description>&lt;p&gt;## Crear un post en hugo.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;hugo new content [path] [flags]&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;## Crear arquetipos y posts&lt;/p&gt;&#xA;&lt;p&gt;Para crear un arquetipo editamos el fichero en la carpeta archetypes&lt;/p&gt;&#xA;&lt;p&gt;Para crear un post del arquetipo que queremos, escribimos&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;hugo new content --kind libros ./content/posts/nombrequesea.md&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>
